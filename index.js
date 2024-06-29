@@ -61,4 +61,36 @@
 
 
 
-// 6 - masala
+                                    // QO'SHIMCHA MASALALAR
+
+document.getElementById('btn1').addEventListener('click', () => {
+    alert("oshning narxi 50 ming so'm");
+  });
+  
+  document.getElementById('btn2').addEventListener('click', () => {
+    alert("somsaning narxi 18 ming so'm");
+  });
+  
+  document.getElementById('btn3').addEventListener('click', () => {
+    alert("kabobning narxi 20 ming so'm");
+  });
+  
+  document.getElementById('btn4').addEventListener('click', () => {
+    alert("baliqning narxi 60 ming so'm");
+  });
+  
+  document.getElementById('btn5').addEventListener('click', () => {
+    alert("gummaning narxi 10 ming so'm");
+  });
+  
+  document.getElementById('btn6').addEventListener('click', () => {
+    alert("perashkening narxi 5 ming so'm");
+  });
+  
+  document.getElementById('btn7').addEventListener('click', () => {
+    alert("salatning narxi 15 ming so'm");
+  });
+  
+  document.getElementById('btn8').addEventListener('click', () => {
+    alert("choyning narxi 5 ming so'm");
+  });                                
